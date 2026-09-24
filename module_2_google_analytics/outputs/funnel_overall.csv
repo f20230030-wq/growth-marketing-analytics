@@ -1,0 +1,6 @@
+,count,% of sessions,% from previous step,drop-off %
+sessions,903653,100.0,,
+product_view,124188,13.74,13.74,86.26
+add_to_cart,50139,5.55,40.37,59.63
+checkout,22407,2.48,44.69,55.31
+purchase,11552,1.28,51.56,48.44
