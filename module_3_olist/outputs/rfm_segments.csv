@@ -1,0 +1,7 @@
+segment,customers,avg_recency_days,avg_orders,avg_revenue,revenue,customer_share_%,revenue_share_%
+"1 Champions (repeat, recent)",1231,91.0,2.2,321.0,395179.6,1.3,2.6
+2 Loyal but lapsing,1558,321.2,2.1,298.8,465575.0,1.7,3.0
+3 New high-value,4324,46.2,1.0,394.8,1706959.5,4.6,11.1
+4 New,13522,44.4,1.0,89.4,1209455.5,14.5,7.9
+"5 High-value, at risk",17189,283.9,1.0,389.6,6696404.8,18.5,43.6
+6 Lost / one-off,55280,284.8,1.0,88.7,4902301.1,59.4,31.9
